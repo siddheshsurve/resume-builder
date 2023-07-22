@@ -478,6 +478,9 @@ function Editor(props) {
         }));
         break;
       }
+
+      default:
+    // do nothing
     }
   };
 
