@@ -1,5 +1,5 @@
 # Live Link : 
-## Youtube Lite : https://resume-builder-iota-one.vercel.app/
+## ResumePro : https://resume-builder-iota-one.vercel.app/
 
 # Getting Started with Create React App
 
